@@ -1,0 +1,4 @@
+/home/zhouhl/Documents/data/casme3/cmc_test/casme3_diff_me4/casme3_diff_imgs_all/negative/spNO.180-b-84-spNO.180-b-78_diff.png 0 0
+/home/zhouhl/Documents/data/casme3/cmc_test/casme3_diff_me4/casme3_diff_imgs_all/surprise/spNO.180-h-1802-spNO.180-h-1794_diff.png 3 0
+/home/zhouhl/Documents/data/casme3/cmc_test/casme3_diff_me4/casme3_diff_imgs_all/surprise/spNO.180-j-1676-spNO.180-j-1670_diff.png 3 0
+/home/zhouhl/Documents/data/casme3/cmc_test/casme3_diff_me4/casme3_diff_imgs_all/surprise/spNO.180-j-428-spNO.180-j-423_diff.png 3 0
