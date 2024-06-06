@@ -2,6 +2,8 @@
 
 This repo covers the implementation for Micro-Expression Recognition using Dual-View Self-Supervised Contrastive Learning with Intensity Perception (DVSCL):
 
+software developer： [Haoliang Zhou](https://github.com/HaoliangZhou)
+
 
 ## Installation
 
