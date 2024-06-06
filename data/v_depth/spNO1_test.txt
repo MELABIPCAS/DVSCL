@@ -1,0 +1,10 @@
+/home/zhouhl/Documents/data/casme3/cmc_test/casme3_diff_me4/casme3_diff_depth_all/negative/spNO.1-b-175-spNO.1-b-166_diff_depth.png 0 0
+/home/zhouhl/Documents/data/casme3/cmc_test/casme3_diff_me4/casme3_diff_depth_all/others/spNO.1-f-1572-spNO.1-f-1568_diff_depth.png 1 0
+/home/zhouhl/Documents/data/casme3/cmc_test/casme3_diff_me4/casme3_diff_depth_all/others/spNO.1-f-1426-spNO.1-f-1421_diff_depth.png 1 0
+/home/zhouhl/Documents/data/casme3/cmc_test/casme3_diff_me4/casme3_diff_depth_all/others/spNO.1-e-68-spNO.1-e-62_diff_depth.png 1 0
+/home/zhouhl/Documents/data/casme3/cmc_test/casme3_diff_me4/casme3_diff_depth_all/others/spNO.1-e-102-spNO.1-e-96_diff_depth.png 1 0
+/home/zhouhl/Documents/data/casme3/cmc_test/casme3_diff_me4/casme3_diff_depth_all/others/spNO.1-a-359-spNO.1-a-355_diff_depth.png 1 0
+/home/zhouhl/Documents/data/casme3/cmc_test/casme3_diff_me4/casme3_diff_depth_all/positive/spNO.1-j-33-spNO.1-j-28_diff_depth.png 2 0
+/home/zhouhl/Documents/data/casme3/cmc_test/casme3_diff_me4/casme3_diff_depth_all/positive/spNO.1-k-159-spNO.1-k-153_diff_depth.png 2 0
+/home/zhouhl/Documents/data/casme3/cmc_test/casme3_diff_me4/casme3_diff_depth_all/surprise/spNO.1-j-105-spNO.1-j-102_diff_depth.png 3 0
+/home/zhouhl/Documents/data/casme3/cmc_test/casme3_diff_me4/casme3_diff_depth_all/surprise/spNO.1-h-185-spNO.1-h-181_diff_depth.png 3 0

@@ -1,0 +1,2 @@
+/home/zhouhl/Documents/data/casme3/cmc_test/casme3_diff_me4/casme3_diff_imgs_all/negative/spNO.154-i-1342-spNO.154-i-1336_diff.png 0 0
+/home/zhouhl/Documents/data/casme3/cmc_test/casme3_diff_me4/casme3_diff_imgs_all/negative/spNO.154-h-267-spNO.154-h-259_diff.png 0 0
